@@ -1,0 +1,3 @@
+[submodule "backoffAlgorithm"]
+	path = backoffAlgorithm
+	url = https://github.com/FreeRTOS/backoffAlgorithm.git
